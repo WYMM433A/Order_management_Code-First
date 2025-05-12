@@ -1,0 +1,313 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Wai Yan Moe Myint\\source\\Order_Code\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EB7BAD38-DEAC-44D3-B7D5-C9EB6FE3ADB7}|Order_Code.csproj|c:\\users\\wai yan moe myint\\source\\order_code\\models\\models.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB7BAD38-DEAC-44D3-B7D5-C9EB6FE3ADB7}|Order_Code.csproj|solutionrelative:models\\models.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB7BAD38-DEAC-44D3-B7D5-C9EB6FE3ADB7}|Order_Code.csproj|c:\\users\\wai yan moe myint\\source\\order_code\\views\\orders\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EB7BAD38-DEAC-44D3-B7D5-C9EB6FE3ADB7}|Order_Code.csproj|solutionrelative:views\\orders\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB7BAD38-DEAC-44D3-B7D5-C9EB6FE3ADB7}|Order_Code.csproj|c:\\users\\wai yan moe myint\\source\\order_code\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB7BAD38-DEAC-44D3-B7D5-C9EB6FE3ADB7}|Order_Code.csproj|solutionrelative:controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB7BAD38-DEAC-44D3-B7D5-C9EB6FE3ADB7}|Order_Code.csproj|c:\\users\\wai yan moe myint\\source\\order_code\\views\\orders\\displayorders.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EB7BAD38-DEAC-44D3-B7D5-C9EB6FE3ADB7}|Order_Code.csproj|solutionrelative:views\\orders\\displayorders.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB7BAD38-DEAC-44D3-B7D5-C9EB6FE3ADB7}|Order_Code.csproj|c:\\users\\wai yan moe myint\\source\\order_code\\views\\orders\\addorder.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EB7BAD38-DEAC-44D3-B7D5-C9EB6FE3ADB7}|Order_Code.csproj|solutionrelative:views\\orders\\addorder.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB7BAD38-DEAC-44D3-B7D5-C9EB6FE3ADB7}|Order_Code.csproj|c:\\users\\wai yan moe myint\\source\\order_code\\views\\agents\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EB7BAD38-DEAC-44D3-B7D5-C9EB6FE3ADB7}|Order_Code.csproj|solutionrelative:views\\agents\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB7BAD38-DEAC-44D3-B7D5-C9EB6FE3ADB7}|Order_Code.csproj|c:\\users\\wai yan moe myint\\source\\order_code\\views\\items\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EB7BAD38-DEAC-44D3-B7D5-C9EB6FE3ADB7}|Order_Code.csproj|solutionrelative:views\\items\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB7BAD38-DEAC-44D3-B7D5-C9EB6FE3ADB7}|Order_Code.csproj|c:\\users\\wai yan moe myint\\source\\order_code\\controllers\\agentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB7BAD38-DEAC-44D3-B7D5-C9EB6FE3ADB7}|Order_Code.csproj|solutionrelative:controllers\\agentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB7BAD38-DEAC-44D3-B7D5-C9EB6FE3ADB7}|Order_Code.csproj|c:\\users\\wai yan moe myint\\source\\order_code\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB7BAD38-DEAC-44D3-B7D5-C9EB6FE3ADB7}|Order_Code.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB7BAD38-DEAC-44D3-B7D5-C9EB6FE3ADB7}|Order_Code.csproj|c:\\users\\wai yan moe myint\\source\\order_code\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{EB7BAD38-DEAC-44D3-B7D5-C9EB6FE3ADB7}|Order_Code.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB7BAD38-DEAC-44D3-B7D5-C9EB6FE3ADB7}|Order_Code.csproj|c:\\users\\wai yan moe myint\\source\\order_code\\models\\appdbcontextfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB7BAD38-DEAC-44D3-B7D5-C9EB6FE3ADB7}|Order_Code.csproj|solutionrelative:models\\appdbcontextfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB7BAD38-DEAC-44D3-B7D5-C9EB6FE3ADB7}|Order_Code.csproj|c:\\users\\wai yan moe myint\\source\\order_code\\controllers\\itemscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB7BAD38-DEAC-44D3-B7D5-C9EB6FE3ADB7}|Order_Code.csproj|solutionrelative:controllers\\itemscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB7BAD38-DEAC-44D3-B7D5-C9EB6FE3ADB7}|Order_Code.csproj|c:\\users\\wai yan moe myint\\source\\order_code\\models\\appdbcontest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB7BAD38-DEAC-44D3-B7D5-C9EB6FE3ADB7}|Order_Code.csproj|solutionrelative:models\\appdbcontest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB7BAD38-DEAC-44D3-B7D5-C9EB6FE3ADB7}|Order_Code.csproj|c:\\users\\wai yan moe myint\\source\\order_code\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB7BAD38-DEAC-44D3-B7D5-C9EB6FE3ADB7}|Order_Code.csproj|solutionrelative:models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB7BAD38-DEAC-44D3-B7D5-C9EB6FE3ADB7}|Order_Code.csproj|c:\\users\\wai yan moe myint\\source\\order_code\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EB7BAD38-DEAC-44D3-B7D5-C9EB6FE3ADB7}|Order_Code.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB7BAD38-DEAC-44D3-B7D5-C9EB6FE3ADB7}|Order_Code.csproj|c:\\users\\wai yan moe myint\\source\\order_code\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EB7BAD38-DEAC-44D3-B7D5-C9EB6FE3ADB7}|Order_Code.csproj|solutionrelative:views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB7BAD38-DEAC-44D3-B7D5-C9EB6FE3ADB7}|Order_Code.csproj|c:\\users\\wai yan moe myint\\source\\order_code\\migrations\\20250511062457_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB7BAD38-DEAC-44D3-B7D5-C9EB6FE3ADB7}|Order_Code.csproj|solutionrelative:migrations\\20250511062457_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DisplayOrders.cshtml",
+              "DocumentMoniker": "C:\\Users\\Wai Yan Moe Myint\\source\\Order_Code\\Views\\Orders\\DisplayOrders.cshtml",
+              "RelativeDocumentMoniker": "Views\\Orders\\DisplayOrders.cshtml",
+              "ToolTip": "C:\\Users\\Wai Yan Moe Myint\\source\\Order_Code\\Views\\Orders\\DisplayOrders.cshtml",
+              "RelativeToolTip": "Views\\Orders\\DisplayOrders.cshtml",
+              "ViewState": "AgIAAGUAAAAAAAAAAAAIwIkAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-11T06:59:14.994Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\Wai Yan Moe Myint\\source\\Order_Code\\Views\\Orders\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Views\\Orders\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\Wai Yan Moe Myint\\source\\Order_Code\\Views\\Orders\\Delete.cshtml",
+              "RelativeToolTip": "Views\\Orders\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-11T06:59:14.08Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AddOrder.cshtml",
+              "DocumentMoniker": "C:\\Users\\Wai Yan Moe Myint\\source\\Order_Code\\Views\\Orders\\AddOrder.cshtml",
+              "RelativeDocumentMoniker": "Views\\Orders\\AddOrder.cshtml",
+              "ToolTip": "C:\\Users\\Wai Yan Moe Myint\\source\\Order_Code\\Views\\Orders\\AddOrder.cshtml",
+              "RelativeToolTip": "Views\\Orders\\AddOrder.cshtml",
+              "ViewState": "AgIAALYAAAAAAAAAAAAIwNoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-11T06:59:09.018Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "OrdersController.cs",
+              "DocumentMoniker": "C:\\Users\\Wai Yan Moe Myint\\source\\Order_Code\\Controllers\\OrdersController.cs",
+              "RelativeDocumentMoniker": "Controllers\\OrdersController.cs",
+              "ToolTip": "C:\\Users\\Wai Yan Moe Myint\\source\\Order_Code\\Controllers\\OrdersController.cs",
+              "RelativeToolTip": "Controllers\\OrdersController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAApwIgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T06:58:29.59Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Wai Yan Moe Myint\\source\\Order_Code\\Views\\Agents\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Agents\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Wai Yan Moe Myint\\source\\Order_Code\\Views\\Agents\\Index.cshtml",
+              "RelativeToolTip": "Views\\Agents\\Index.cshtml",
+              "ViewState": "AgIAAFMAAAAAAAAAAAAAwGAAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-11T06:55:47.068Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Models.cs",
+              "DocumentMoniker": "C:\\Users\\Wai Yan Moe Myint\\source\\Order_Code\\Models\\Models.cs",
+              "RelativeDocumentMoniker": "Models\\Models.cs",
+              "ToolTip": "C:\\Users\\Wai Yan Moe Myint\\source\\Order_Code\\Models\\Models.cs",
+              "RelativeToolTip": "Models\\Models.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAcAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T06:02:37.579Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Wai Yan Moe Myint\\source\\Order_Code\\Views\\Items\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Items\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Wai Yan Moe Myint\\source\\Order_Code\\Views\\Items\\Index.cshtml",
+              "RelativeToolTip": "Views\\Items\\Index.cshtml",
+              "ViewState": "AgIAAEUAAAAAAAAAAAAAAAcAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-11T06:52:59.165Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AgentsController.cs",
+              "DocumentMoniker": "C:\\Users\\Wai Yan Moe Myint\\source\\Order_Code\\Controllers\\AgentsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AgentsController.cs",
+              "ToolTip": "C:\\Users\\Wai Yan Moe Myint\\source\\Order_Code\\Controllers\\AgentsController.cs",
+              "RelativeToolTip": "Controllers\\AgentsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T06:52:55.644Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "20250511062457_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\Wai Yan Moe Myint\\source\\Order_Code\\Migrations\\20250511062457_InitialCreate.cs",
+              "RelativeDocumentMoniker": "Migrations\\20250511062457_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\Wai Yan Moe Myint\\source\\Order_Code\\Migrations\\20250511062457_InitialCreate.cs",
+              "RelativeToolTip": "Migrations\\20250511062457_InitialCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T06:24:57.195Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AppDbContextFactory.cs",
+              "DocumentMoniker": "C:\\Users\\Wai Yan Moe Myint\\source\\Order_Code\\Models\\AppDbContextFactory.cs",
+              "RelativeDocumentMoniker": "Models\\AppDbContextFactory.cs",
+              "ToolTip": "C:\\Users\\Wai Yan Moe Myint\\source\\Order_Code\\Models\\AppDbContextFactory.cs",
+              "RelativeToolTip": "Models\\AppDbContextFactory.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T06:22:10.467Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Wai Yan Moe Myint\\source\\Order_Code\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\Wai Yan Moe Myint\\source\\Order_Code\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T06:10:18.837Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Wai Yan Moe Myint\\source\\Order_Code\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Wai Yan Moe Myint\\source\\Order_Code\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAwBIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T06:06:46.145Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Wai Yan Moe Myint\\source\\Order_Code\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\Wai Yan Moe Myint\\source\\Order_Code\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-11T06:05:10.152Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ItemsController.cs",
+              "DocumentMoniker": "C:\\Users\\Wai Yan Moe Myint\\source\\Order_Code\\Controllers\\ItemsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ItemsController.cs",
+              "ToolTip": "C:\\Users\\Wai Yan Moe Myint\\source\\Order_Code\\Controllers\\ItemsController.cs",
+              "RelativeToolTip": "Controllers\\ItemsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T06:37:49.263Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AppDbContest.cs",
+              "DocumentMoniker": "C:\\Users\\Wai Yan Moe Myint\\source\\Order_Code\\Models\\AppDbContest.cs",
+              "RelativeDocumentMoniker": "Models\\AppDbContest.cs",
+              "ToolTip": "C:\\Users\\Wai Yan Moe Myint\\source\\Order_Code\\Models\\AppDbContest.cs",
+              "RelativeToolTip": "Models\\AppDbContest.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAywDAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T06:04:12.301Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Wai Yan Moe Myint\\source\\Order_Code\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Wai Yan Moe Myint\\source\\Order_Code\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-11T06:00:39.203Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\Wai Yan Moe Myint\\source\\Order_Code\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\Wai Yan Moe Myint\\source\\Order_Code\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-11T06:00:37.174Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{269a02dc-6af8-11d3-bdc4-00c04f688e50}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
